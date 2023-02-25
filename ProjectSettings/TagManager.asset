@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sushi
+  - Green Meter
+  - Red Line
+  - Push Up Down
+  - Push Up Up
+  - Music
+  - Rope Climb
+  - Falling Sound
+  - Yay Sound
+  - Bust Breaking
+  - Correct Sound
+  - Struggle Pulling
+  - Boat Moving
+  - Sad Sound
+  - Blow Sound
+  - Step Sound
+  - Rock Drop Sound
+  - Struggle Carry Sound
+  - Adding Points Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
